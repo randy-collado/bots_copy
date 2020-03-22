@@ -12,3 +12,5 @@ class FacebookBot():
 
         fb_login_password = self.driver.find_element_by_xpath('//*[@id="pass"]')
         fb_login_password.send_keys('whitney1997')
+
+        print('lmaoooo')
